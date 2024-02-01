@@ -1,0 +1,1 @@
+a:3:{i:0;a:2:{s:4:"nama";s:4:"asep";s:6:"alamat";s:6:"ciamis";}i:1;a:2:{s:4:"nama";s:4:"budi";s:6:"alamat";s:5:"tasik";}i:2;a:2:{s:4:"nama";s:5:"cecep";s:6:"alamat";s:5:"garut";}}

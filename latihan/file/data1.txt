@@ -1,0 +1,1 @@
+[{"nama":"asep","alamat":"ciamis"},{"nama":"budi","alamat":"tasik"},{"nama":"cecep","alamat":"garut"}]
